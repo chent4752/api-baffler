@@ -1,0 +1,11 @@
+server:
+  name: "api-baffle"
+  port: 8080
+  locale: zh
+
+redis:
+  addr: "127.0.0.1:6379"
+  host: 127.0.0.1
+  port: 6379
+  db: 0
+  password: ""
